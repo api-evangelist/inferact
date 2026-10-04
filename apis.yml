@@ -45,10 +45,10 @@ modified: '2026-07-19'
 tags:
 - Company
 - Artificial Intelligence
-- Machine-Learning
-- LLM Inference
+- Machine Learning
+- Inference
 - Infrastructure
-- Open-Source
+- Open Source
 - Model Serving
 tags_raw:
 - Company
@@ -58,6 +58,8 @@ tags_raw:
 - Infrastructure
 - Open Source
 - Model Serving
+- Machine-Learning
+- Open-Source
 apis: []
 maintainers:
 - FN: Kin Lane
